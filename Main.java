@@ -32,6 +32,7 @@ System.out.println("Press 5 to quit.");
     }else if(choiceentry == 3){
     System.out.println("Top 10 Forbes In-Demand Jobs!");
       }else if(choiceentry == 4){
+      System.out.println("Current Students:");
       arrayList.forEach(System.out::println);
       
       }
