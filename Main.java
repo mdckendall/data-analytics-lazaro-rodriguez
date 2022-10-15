@@ -28,7 +28,7 @@ System.out.println("Press 5 quit.");
   if(choiceentry == 1){
     System.out.println("$98,345 average salary in South Florida!");
   }else if(choiceentry == 2){
-    System.out.println("US new - 100 Best Jobs!");
+    System.out.println("US News - 100 Best Jobs!");
     }else if(choiceentry == 3){
     System.out.println("Top 10 Forbes In-Demand Jobs!");
       }else if(choiceentry == 4){
